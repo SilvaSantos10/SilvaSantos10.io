@@ -1,0 +1,101 @@
+.fundo{
+    background-color: rgba(250, 211, 175, 0.3);
+}
+
+div{
+   font-family: Verdana, sans-serif;
+}
+
+.bg-light{
+    background-image: url("https://img.freepik.com/vetores-premium/padrao-sem-costura-com-confeitaria-sobremesa-e-bolo-waffle-doce-e-croissant-linear-hand-doodle_248911-960.jpg?w=2000");
+}
+
+div#paralax{
+    background-image: url("https://img.freepik.com/vetores-premium/doodle-de-item-alimentar-desenhado-a-mao-sem-costura-padrao-cupcake-de-cana-doce-macaroon-sorvete-torta-cozinha_660095-211.jpg");
+    width: 100%;
+    height: 300px;
+}
+
+/*h3, h2{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}*/
+
+.titulo {
+    color: rgba(255, 32, 255, 0.5) !important;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    position: relative;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+
+.bg-card {
+    background-color: rgba(0, 177, 254, 0.1) !important;
+    border-color: rgba(0, 177, 254, 0.5) !important;
+    border-width: 3px !important;
+}
+
+
+.imagem4{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.imagem4:hover{
+    -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+}
+
+.btn-danger{
+    background-color: rgba(0, 177, 254, 0.1) !important;
+    border-color: rgba(0, 177, 254, 0.5) !important;
+    color: black !important;
+    border-width: 3px !important;
+}
+
+.btn-success{
+    background-color: rgba(0, 177, 254, 0.1) !important;
+    border-color: rgba(0, 177, 254, 0.5) !important;
+    color: black !important;
+    border-width: 3px !important;
+}
+
+footer {
+    border-top: 3px solid pink;
+}
+
+nav {
+    border: 3px solid pink;
+    border-left: none;
+    border-right: none;
+}
+
+.icone-rosa {
+    color: rgba(204, 90, 242, 0.988);
+}
+
+p {
+    font-size: 25px;
+}
+
+section h2{
+    color: rgb(0, 0, 0); text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+h3, a, p {
+    color: black;  
+}
+
+div#direitos {
+    border-top: 3px solid pink;
+}
+
+
+
+
+
+
+
