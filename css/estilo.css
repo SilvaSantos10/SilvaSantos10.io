@@ -143,16 +143,26 @@ div#direitos {
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) { 
-	.navbar-toggler, .navbar-toggler-icon {
-        font-size: 30px !important;
-    }
-
-    p, div#contato1, div#contato2, a {
-        font-size: 15px;
-    }
+	
 
     h2 {
         font-size: 22px !important;
+    }
+
+    .navbar-toggler, .navbar-toggler-icon {
+        font-size: 32px !important;
+    } 
+
+    p, div#contato1, div#contato2, a {
+        font-size: 32px;
+    }
+
+    header#menu {
+        font-size: 32px;
+    }
+
+    header#menu a {
+        font-size: 32px;
     }
 
 }
