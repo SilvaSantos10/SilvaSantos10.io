@@ -8,7 +8,11 @@ a#logo {
     color: rgba(255, 32, 255, 0.5) !important;
 }
 .w-100 {
-    height: 600px;
+    height: 450px;
+}
+
+h2 {
+    font-size: 22px !important;
 }
 
 
@@ -100,113 +104,6 @@ div#direitos {
     border-top: 2px solid pink;
 }
 
-
-
-/* Extra small devices (portrait phones, less than 576px)
-@media (max-width: 575.98px) {
-    .navbar-toggler, .navbar-toggler-icon {
-        font-size: 32px !important;
-    } 
-
-    p, div#contato1, div#contato2, a {
-        font-size: 32px;
-    }
-
-    header#menu {
-        font-size: 32px;
-    }
-
-    header#menu a {
-        font-size: 32px;
-    }
-
-}
-
-/* Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) and (max-width: 767.98px) {
-	.navbar-toggler, .navbar-toggler-icon {
-        font-size: 32px !important;
-    } 
-
-    p, div#contato1, div#contato2, a {
-        font-size: 32px;
-    }
-
-    header#menu {
-        font-size: 32px;
-    }
-
-    header#menu a {
-        font-size: 32px;
-    }
-}
-
-/* Medium devices (tablets, 768px and up)
-@media (min-width: 768px) and (max-width: 991.98px) { 
-	
-
-    h2 {
-        font-size: 22px !important;
-    }
-
-    .navbar-toggler, .navbar-toggler-icon {
-        font-size: 32px !important;
-    } 
-
-    p, div#contato1, div#contato2, a {
-        font-size: 32px;
-    }
-
-    header#menu {
-        font-size: 32px;
-    }
-
-    header#menu a {
-        font-size: 32px;
-    }
-
-}
-
-/* Large devices (desktops, 992px and up)
-@media (min-width: 992px) and (max-width: 1199.98px) {
-	.navbar-toggler, .navbar-toggler-icon {
-        font-size: 40px !important;
-    }
-    
-    .btn-danger, .btn-success {
-        font-size: 100% !important;
-    }
-
-    p, div#contato1, div#contato2, a {
-        font-size: 15px;
-    }
-
-    h2 {
-        font-size: 24px !important;
-    }
-}
-
-/* Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { 
-	.navbar-toggler, .navbar-toggler-icon {
-        font-size: 50px !important;
-    }
-
-    .btn-danger, .btn-success {
-        font-size: 18px !important;
-    }
-
-    p, div#contato1, div#contato2, a {
-        font-size: 15px;
-    }
-
-    h2 {
-        font-size: 26px !important;
-    }
-
- }
-
- */
 
 
 
