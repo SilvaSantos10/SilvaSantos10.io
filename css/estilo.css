@@ -1,11 +1,11 @@
 .navbar-light .navbar-toggler {
-    color: rgba(255, 32, 255, 0.5) !important;
-    border-color: rgba(255, 32, 255, 0.5) !important;
+    color: pink!important;
+    border-color: pink !important;
 }
 
 
 a#logo {
-    color: rgba(255, 32, 255, 0.3) !important;
+    color: pink !important;
 }
 .w-100 {
     height: 450px;
@@ -24,75 +24,66 @@ div{
    font-family: Verdana, sans-serif;
 }
 
-.bg-light{
-    background-image: url("https://img.freepik.com/vetores-premium/padrao-sem-costura-com-confeitaria-sobremesa-e-bolo-waffle-doce-e-croissant-linear-hand-doodle_248911-960.jpg?w=2000");
-}
-
-div#paralax{
-    background-image: url("https://img.freepik.com/vetores-premium/doodle-de-item-alimentar-desenhado-a-mao-sem-costura-padrao-cupcake-de-cana-doce-macaroon-sorvete-torta-cozinha_660095-211.jpg");
-    width: 100%;
-    height: 300px;
-}
+/*.bg-light{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/018/764/737/non_2x/melted-chocolate-background-free-png.png");
+}*/
 
 /*h3, h2{
     color: white; text-shadow: black 0.1em 0.1em 0.2em;
 }*/
 
 .titulo {
-    color: rgba(255, 32, 255, 0.5) !important;
+    color: pink !important;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa4 {
+/*.caixa1, .caixa2, .caixa3, .caixa4 {
     position: relative;
     height: 100%;
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
-}
+}*/
 
 .bg-card {
     background-color: rgba(0, 177, 254, 0.1) !important;
-    border-color: rgba(0, 177, 254, 0.5) !important;
-    border-width: 1px !important;
+    border: none !important;
 }
 
 
-.imagem4{
+/*.imagem4{
     transition: all 0.5s;
     cursor: pointer;
-}
+}*/
 
-.imagem4:hover{
+/*.imagem4:hover{
     -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
     filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
-}
+}*/
 
 .btn-danger{
     background-color: rgba(0, 177, 254, 0.1) !important;
-    border-color: rgba(0, 177, 254, 0.5) !important;
     color: black !important;
-    border-width: 1px !important;
+    border: none !important;
 }
 
 .btn-success{
     background-color: rgba(0, 177, 254, 0.1) !important;
-    border-color: rgba(0, 177, 254, 0.5) !important;
     color: black !important;
-    border-width: 1px !important;
+    border: none !important;
 }
 
 footer {
-    border-top: 2px solid pink;
+    border-top: 1px solid pink;
 }
 
 nav {
-    border: 2px solid pink;
+    border: 1px solid pink;
     border-left: none;
     border-right: none;
 }
 
 .icone-rosa {
-    color: rgba(204, 90, 242, 0.988);
+    color: pink;
 }
 
 
@@ -101,7 +92,7 @@ h3, a, p {
 }
 
 div#direitos {
-    border-top: 2px solid pink;
+    border-top: 1px solid pink;
 }
 
 
