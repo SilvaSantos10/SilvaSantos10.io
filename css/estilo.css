@@ -57,7 +57,7 @@ a#logo {
 
 
 /*-- elementos --*/
- .bg-card {
+ .bg-card, .card {
     background-color: rgba(250, 211, 175, 0.4) !important;
     border: none !important;
 }
@@ -73,6 +73,12 @@ a#logo {
     background-color: rgba(250, 211, 175, 0.4) !important;
     color: black !important;
     border: none !important;
+}
+
+.btn-primary {
+    background-color: pink !important;
+    color: black !important;
+    border: 1px solid pink !important;
 }
 
 
