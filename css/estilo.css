@@ -5,17 +5,16 @@ h3, a, p {
     color: black;  
 }
 
-h2 {
-    font-size: 22px !important;
+h2, h5 {
+    font-size: 30px !important;
+    font-family:garamond !important;
 }
-
-
 
 /*--formatações gerais --*/
 
 
 .fundo{
-    background-color: rgba(250, 211, 175, 0.4);
+    background-color: rgba(250, 211, 175, 0.1);
 }
 
 footer {
@@ -33,12 +32,14 @@ nav {
     border-right: none;
 }
 
+
 /*div{
     font-family: Verdana, sans-serif;
  }*/
 
  div{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   /* font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+   font-family:garamond !important;
  }
 
 
@@ -58,8 +59,8 @@ a#logo {
 
 /*-- elementos --*/
  .bg-card, .card {
-    background-color: rgba(250, 211, 175, 0.4) !important;
-    border: none !important;
+    background-color: rgba(250, 211, 175, 0.1) !important;
+    border: 1px solid pink !important;
 }
 
 
