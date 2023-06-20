@@ -7,7 +7,7 @@ h3, a, p {
 
 h2, h5 {
     font-size: 30px !important;
-    font-family:garamond !important;
+    
 }
 
 /*--formatações gerais --*/
@@ -39,7 +39,7 @@ nav {
 
  div{
    /* font-family:Verdana, Geneva, Tahoma, sans-serif;*/
-   font-family:garamond !important;
+   font-family:Garamond;
  }
 
 
