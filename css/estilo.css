@@ -10,6 +10,10 @@ h2, h5 {
     
 }
 
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
 /*--formatações gerais --*/
 
 
@@ -31,21 +35,6 @@ nav {
     border-left: none;
     border-right: none;
 }
-
-
-/*div{
-    font-family: Verdana, sans-serif;
- }*/
-
- div{
-   /* font-family:Verdana, Geneva, Tahoma, sans-serif;*/
-   font-family:Garamond;
- }
-
-
-/*.w-100 {
-    height: 650px;
-}*/
 
 .titulo {
     color: pink !important;
